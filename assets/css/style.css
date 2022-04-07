@@ -5,6 +5,10 @@
 }
 
 /* (*) selector makes changes to the html file as a whole */
+body {
+
+    background-color: #d9dcd6;
+}
 
 a {
     color: #ffffff;
@@ -59,9 +63,6 @@ p {
 }
 /* The background-size property specifies the size of the background images.  */
 
-body {
-    background-color: #d9dcd6;
-}
 
 .float-left {
     float: left;
